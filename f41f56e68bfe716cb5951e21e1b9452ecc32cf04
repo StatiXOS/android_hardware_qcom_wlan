@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "41111c99_3e052d96",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000125
+      },
+      "writtenOn": "2025-03-07T11:27:42Z",
+      "side": 1,
+      "message": "This is only required from BP1A onwards, but it wouldn\u0027t hurt if we merge this now.",
+      "revId": "f41f56e68bfe716cb5951e21e1b9452ecc32cf04",
+      "serverId": "039621b9-0c7c-40f3-867c-684f4bc911d6"
+    }
+  ]
+}
